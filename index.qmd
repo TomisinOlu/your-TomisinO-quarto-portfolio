@@ -3,6 +3,7 @@ title: "My Data Visualization Portfolio"
 format: 
   html:
     output-file: index.html
+    include-in-header: base-url.html
 execute:
   echo: true
   eval: true
